@@ -19,6 +19,7 @@ To optimize loan collections and increase customer engagement by:
 
 
  Problem Statements (Increasing Difficulty):
+ 
 🟢 Level 1 – Basic Joins & Aggregations
 - List all customers with their total loan amount and number of loans taken.
 - Find states with the highest number of active customers.
